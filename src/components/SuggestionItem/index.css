@@ -1,0 +1,20 @@
+.suggestion-card {
+  display: flex;
+  justify-content: space-between;
+}
+.suggestion {
+  color: #475569;
+  font-size: 17px;
+  font-family: 'Roboto';
+}
+
+.arrow-img {
+  height: 27px;
+  width: 27px;
+}
+
+.arrow-btn {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
